@@ -1,0 +1,9 @@
+{
+  "name": "棚検索",
+  "short_name": "棚検索",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "icons": []
+}
